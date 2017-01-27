@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "babel src -d lib"
+    "build": "babel src -d .generated"
   },
   "author": "Lars Thomas Denstad <cocporn@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.22.2",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.22.0",
     "babel-preset-env": "^1.1.8"
   }
 }

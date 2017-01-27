@@ -1,3 +1,3 @@
-const test = 'TestString'
+const test = 'Updated'
 
-export { test }
+export default { test }

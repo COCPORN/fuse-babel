@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns": [
+				".generated",
+				".uno",
+				"build",
+				"node_modules"
+			],
+			"path": "."
+		}
+	]
+}

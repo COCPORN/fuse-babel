@@ -2,3 +2,5 @@ node_modules/
 build/
 .uno/
 .generated/
+
+*.sublime-workspace

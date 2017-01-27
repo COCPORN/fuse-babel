@@ -3,7 +3,10 @@
 	[
 		{
 			"folder_exclude_patterns": [
-				".generated"
+				".generated",
+				".uno",
+				"build",
+				"node_modules"
 			],
 			"path": "."
 		}

@@ -1,2 +1,4 @@
 <App>
+	<JavaScript File=".generated/main.js" />
+	<Text Value="{test}" />
 </App>
